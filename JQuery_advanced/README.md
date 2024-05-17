@@ -1,0 +1,1 @@
+This is the readme for JQuery_advanced project
